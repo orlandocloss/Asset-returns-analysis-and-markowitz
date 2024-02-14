@@ -18,4 +18,4 @@ Code to calculate markowitz minimum variance, efficient frontier and tangent por
 
 # To use
 
-In order to use the script download the csv files from historical data yahoo finance. 
+In order to use the scripts download the csv files from historical data yahoo finance. 
