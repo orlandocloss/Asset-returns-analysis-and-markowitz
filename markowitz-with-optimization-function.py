@@ -1,6 +1,6 @@
 '''
 Author: Orlando Closs
-Class: Iode to calculate markowitz minimum variance, efficient frontier and tangent portfolio using 
+Class: Code to calculate markowitz minimum variance, efficient frontier and tangent portfolio using 
     scipy optimisation function
 Date: 15/09/2023
 '''
